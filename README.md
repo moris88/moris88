@@ -10,5 +10,5 @@ I'am ♂️ Maurizio Tolomeo 😉, alias MORIS. I am a Junior web Develeoper and
 - Framework Next.js
 - Framework CSS: Tailwind
 - State Management with: Redux, Recoil and Jotai
-- Node.js serverless with express and database SQL
+- Webservice Node.js with express and database SQL
 
