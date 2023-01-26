@@ -6,9 +6,9 @@ I'am ♂️ Maurizio Tolomeo 😉, alias MORIS. I am a Junior web Develeoper and
 
 ## Skills ⭐
 
--React with Vite.js and Typescript
--Framework Next.js
--Framework CSS: Tailwind
--State Management with: Redux, Recoil and Jotai
--Node.js serverless with express and database SQL
+- React with Vite.js and Typescript
+- Framework Next.js
+- Framework CSS: Tailwind
+- State Management with: Redux, Recoil and Jotai
+- Node.js serverless with express and database SQL
 
