@@ -6,7 +6,7 @@ I'am ♂️ Maurizio Tolomeo 😉, alias MORIS. I am a Jr. Web Develeoper and i 
 
 ## Skills ⭐
 
-- Library JS: [React](https://reactjs.org/) with [Typescript](https://www.typescriptlang.org/) and Build with [Vite.js](https://vitejs.dev/)
+- Library JS: [ReactJS](https://reactjs.org/) with [Typescript](https://www.typescriptlang.org/) and Build with [Vite.js](https://vitejs.dev/)
 - Framework SSR: [Next.js](https://nextjs.org/)
 - Framework CSS: [Tailwind](https://tailwindcss.com/) with [Flowbite](https://flowbite.com/) or [MaterialUI](https://mui.com/)
 - State Management: [Redux](https://redux.js.org/), [Recoil](https://recoiljs.org/) and [Jotai](https://jotai.org/)
