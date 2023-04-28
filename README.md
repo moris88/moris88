@@ -2,7 +2,7 @@
 
 ## Description 📒
 
-I'am ♂️ Maurizio Tolomeo 😉, alias **MORIS**. I am a Jr. Web Develeoper and i work as a Frontend Dev in [CRMPartners!](https://www.crmpartners.it/) 🖥️ I love code, it's my passion! I feel like I am a reliable, sociable, very dynamic person who tries to reach out to them goals set at any cost, last but not least, eager to learn things new and stimulating, routine work genuinely bores me. I have always had a passion and dedication to computer science since I was a child, writing code is not only a job but a passion. My hobby is videogames, especially Survivor Horror ones where there is tension and fear.
+My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **MORIS**. I am a Jr. Web Develeoper and i work as a Frontend Dev in [CRMPartners!](https://www.crmpartners.it/) 🖥️ I love code, it's my passion! I feel like I am a reliable, sociable, very dynamic person who tries to reach out to them goals set at any cost, last but not least, eager to learn things new and stimulating, routine work genuinely bores me. I have always had a passion and dedication to computer science since I was a child, writing code is not only a job but a passion. My hobby is videogames, especially Survivor Horror ones where there is tension and fear.
 
 ## Skills ⭐
 
