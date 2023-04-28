@@ -11,5 +11,5 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 - Framework SSR: [Next.js](https://nextjs.org/)
 - Framework CSS: [Tailwind](https://tailwindcss.com/) with [Flowbite](https://flowbite.com/) or [MaterialUI](https://mui.com/)
 - State Management: [Redux](https://redux.js.org/), [Recoil](https://recoiljs.org/) and [Jotai](https://jotai.org/)
-- Webservice [Node.js](https://nodejs.org/en/) (with [express](https://expressjs.com/) or [serverless framework](https://www.serverless.com/framework/docs/getting-started) and database SQL ([mySQL](https://www.mysql.com/it/), [MongoDB](https://www.mongodb.com/) or [PostgreSQL](https://www.postgresql.org/))
+- Webservice [Node.js](https://nodejs.org/en/) (with [express](https://expressjs.com/) or [serverless framework](https://www.serverless.com/framework/docs/getting-started)) and database SQL ([mySQL](https://www.mysql.com/it/), [MongoDB](https://www.mongodb.com/) or [PostgreSQL](https://www.postgresql.org/))
 
