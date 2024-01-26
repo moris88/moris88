@@ -8,10 +8,11 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 
 ### Frontend
 
-- Library JS: [ReactJS](https://reactjs.org/) with [Typescript](https://www.typescriptlang.org/) and Build with [Vite.js](https://vitejs.dev/)
+- [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/Css/) and [Javascript](https://it.javascript.info/)
+- [ReactJS](https://reactjs.org/) with [Typescript](https://www.typescriptlang.org/) and [Vite.js](https://vitejs.dev/)
 - Framework JS: [Angular](https://angular.io/) or [Astro](https://astro.build/)
 - Framework SSR: [Next.js](https://nextjs.org/)
-- Framework CSS: [Tailwind](https://tailwindcss.com/) with [Flowbite](https://flowbite.com/) or [MaterialUI](https://mui.com/)
+- Framework CSS: [Tailwind CSS](https://tailwindcss.com/) (with [Flowbite](https://flowbite.com/)) and [MaterialUI](https://mui.com/)
 - State Management: [Redux](https://redux.js.org/), [Recoil](https://recoiljs.org/) and [Jotai](https://jotai.org/)
 
 ### Backend
