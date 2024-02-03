@@ -22,3 +22,5 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 - Database NO-SQL ([MongoDB](https://www.mongodb.com/))
 - Integration Task with [JAVA](https://www.java.com/) or [Python](https://www.python.org/)
 
+## My publications 📖
+- [python training](https://moris88.github.io/formazione-python/) (Italian)
