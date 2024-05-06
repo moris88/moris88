@@ -24,5 +24,6 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 
 ## My publications 📖
 - [python training](https://moris88.github.io/formazione-python/) (Italian)
+- [fit training](https://github.com/moris88/formazione-git) (Italian)
 
 <a href="https://app.daily.dev/morist88"><img src="https://api.daily.dev/devcards/v2/axeu6jEfB9E4SFHa2aDGc.png?type=default&r=c4c" width="356" alt="Maurizio Tolomeo's Dev Card"/></a>
