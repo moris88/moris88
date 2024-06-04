@@ -12,22 +12,31 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 
 ### Frontend
 
-- [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/Css/) and [Javascript](https://it.javascript.info/)
-- [ReactJS](https://reactjs.org/) with [Typescript](https://www.typescriptlang.org/) and [Vite.js](https://vitejs.dev/)
-- Framework JS: [Angular](https://angular.io/) or [Astro](https://astro.build/)
-- Framework SSR: [Next.js](https://nextjs.org/)
-- Framework CSS: [Tailwind CSS](https://tailwindcss.com/) (with [Flowbite](https://flowbite.com/)) and [MaterialUI](https://mui.com/)
-- State Management: [Redux](https://redux.js.org/), [Recoil](https://recoiljs.org/) and [Jotai](https://jotai.org/)
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,php,rust)
 
-### Backend
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,sass,tailwind,jquery,redux,solidjs,vite)
 
-- Webservice [Node.js](https://nodejs.org/en/) (with [express](https://expressjs.com/) or [serverless framework](https://www.serverless.com/framework/docs/getting-started))
-- Database SQL ([mySQL](https://www.mysql.com/it/) or [PostgreSQL](https://www.postgresql.org/))
-- Database NO-SQL ([MongoDB](https://www.mongodb.com/))
-- Integration Task with [JAVA](https://www.java.com/) or [Python](https://www.python.org/)
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=express,nodejs,aws,django,flask,docker,fastapi,laravel&perline=3)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres,jira)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vercel,vscode,figma,githubactions,postman,vim,yarn)
+
+#### SO
+![SO](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu)
 
 ## My publications 📖
 - [python training](https://moris88.github.io/formazione-python/) (Italian)
 - [git training](https://moris88.github.io/formazione-git/) (Italian)
+
+## Contacts
+
+- [Linkedin](https://www.linkedin.com/in/maurizio-tolomeo/)
+- [Website](http://mauriziotolomeo.it)
 
 <a href="https://app.daily.dev/morist88"><img src="https://api.daily.dev/devcards/v2/axeu6jEfB9E4SFHa2aDGc.png?type=default&r=c4c" width="356" alt="Maurizio Tolomeo's Dev Card"/></a>
