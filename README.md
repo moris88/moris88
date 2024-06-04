@@ -37,6 +37,7 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 - [Linkedin](https://www.linkedin.com/in/maurizio-tolomeo/)
 - [Website](http://mauriziotolomeo.it)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maurizio-tolomeo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/maurizio-tolomeo?trk=profile-badge">Maurizio T.</a></div>
 
 <a href="https://app.daily.dev/morist88"><img src="https://api.daily.dev/devcards/v2/axeu6jEfB9E4SFHa2aDGc.png?type=default&r=c4c" width="356" alt="Maurizio Tolomeo's Dev Card"/></a>
