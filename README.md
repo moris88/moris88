@@ -19,7 +19,7 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,sass,tailwind,jquery,redux,solidjs,vite)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=express,nodejs,aws,django,flask,docker,fastapi,laravel&perline=3)
+![Backend Technologies](https://skillicons.dev/icons?i=express,nodejs,aws,django,flask,docker,fastapi,laravel)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres,jira)
