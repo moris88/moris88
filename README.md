@@ -13,22 +13,22 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 ### Frontend
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,php,rust&perline=3)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,php,rust)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,sass,tailwind,jquery,redux,solidjs,vite&perline=3)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,sass,tailwind,jquery,redux,solidjs,vite)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=express,nodejs,aws,django,flask,docker,fastapi,laravel&perline=3)](https://skillicons.dev)
+![Backend Technologies](https://skillicons.dev/icons?i=express,nodejs,aws,django,flask,docker,fastapi,laravel&perline=3)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres,jira&perline=3)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres,jira)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vercel,vscode,figma,githubactions,postman,vim,yarn&perline=3)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vercel,vscode,figma,githubactions,postman,vim,yarn)
 
 #### SO
-![SO](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu&perline=3)
+![SO](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu)
 
 ## My publications 📖
 - [python training](https://moris88.github.io/formazione-python/) (Italian)
