@@ -1,6 +1,6 @@
 # Web Developer 🥷
 
-## Github Stats
+## Github Stats 📢
 
 ![Moris's GitHub stats](https://github-readme-stats.vercel.app/api?username=moris88&show_icons=true&theme=cobalt)
 
@@ -32,7 +32,7 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 - [python training](https://moris88.github.io/formazione-python/) (Italian)
 - [git training](https://moris88.github.io/formazione-git/) (Italian)
 
-## Contacts
+## Contacts 🖋️
 
 - [Linkedin](https://www.linkedin.com/in/maurizio-tolomeo/)
 - [Website](http://mauriziotolomeo.it)
