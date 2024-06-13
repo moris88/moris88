@@ -25,8 +25,8 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,vercel,vscode,figma,githubactions,postman,vim,yarn)
 
-#### SO
-![SO](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu)
+#### OS
+![OS](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu)
 
 ## My publications 📖
 - [python training](https://moris88.github.io/formazione-python/) (Italian)
@@ -39,7 +39,5 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 - [Telegram](https://t.me/moris_tolomeo)
 - [Deily.dev](https://app.daily.dev/morist88)
 
-
-[![image](https://github.com/moris88/moris88/assets/37340833/f0c3b0b2-7e35-44e9-880b-443a21537faa)](https://www.linkedin.com/in/maurizio-tolomeo/)
 
 <a href="https://app.daily.dev/morist88"><img src="https://api.daily.dev/devcards/v2/axeu6jEfB9E4SFHa2aDGc.png?type=default&r=c4c" width="356" alt="Maurizio Tolomeo's Dev Card"/></a>
