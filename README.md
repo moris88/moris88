@@ -34,10 +34,9 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 
 ## Contacts 🖋️
 
-- [Linkedin](https://www.linkedin.com/in/maurizio-tolomeo/)
+- [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=maurizio-tolomeo)
 - [Website](http://mauriziotolomeo.it)
 - [Telegram](https://t.me/moris_tolomeo)
 - [Deily.dev](https://app.daily.dev/morist88)
-
 
 <a href="https://app.daily.dev/morist88"><img src="https://api.daily.dev/devcards/v2/axeu6jEfB9E4SFHa2aDGc.png?type=default&r=c4c" width="356" alt="Maurizio Tolomeo's Dev Card"/></a>
