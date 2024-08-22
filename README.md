@@ -11,19 +11,19 @@ My name is ♂️ [Maurizio Tolomeo](https://mauriziotolomeo.it) 😉, alias **M
 ## Skills ⭐
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,php,rust)
+![Languages](https://skillicons.dev/icons?i=js,ts,java,python,php,rust,c,cpp,cs)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,scss,tailwind,jquery,redux,solidjs,vite,materialui)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,jquery,react,angular,next,redux,solidjs,vite,materialui)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=express,nodejs,aws,django,flask,docker,fastapi,laravel)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres,jira)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vercel,vscode,figma,githubactions,postman,vim,yarn)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vercel,vscode,figma,githubactions,postman,vim,yarn,pnpm,deno,gradle)
 
 #### OS
 ![OS](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu)
