@@ -15,15 +15,23 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/maurizio-tolomeo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/mauriziotolomeo88" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Moris88" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Hello! My name is ♂️ Maurizio Tolomeo 😉, but most people know me as MORIS. I’m a passionate Jr. Web Developer currently working as a Frontend Developer at CRMPartners, where I get to bring websites and applications to life every day! 🖥️
+<h3 align="left">Hello! My name is ♂️ Maurizio Tolomeo 😉, but most people know me as MORIS. I’m a passionate Jr. Web Developer currently working as a Frontend Developer at CRMPartners, where I get to bring websites and applications to life every day! 🖥️
 
 Coding is not just my job — it’s my true passion. Ever since I was a child, I’ve been fascinated by computers and programming, and that curiosity has only grown stronger with time. I’m someone who thrives on challenges and loves to push boundaries to achieve the goals I set for myself. I pride myself on being reliable, sociable, and highly dynamic — always ready to collaborate with others and learn new skills. Routine tasks quickly lose my interest; I’m constantly seeking fresh and stimulating opportunities to grow and innovate.
 
 Beyond coding, I’m an avid gamer. I particularly enjoy survival horror games, where the atmosphere is intense and the thrill of suspense and fear keeps me on the edge of my seat. These games inspire me to think creatively and stay sharp, qualities I bring into my work as a developer.
 
-In everything I do, I aim to combine passion, dedication, and a strong desire to keep evolving — because I believe that learning never stops, and every new project is an opportunity to become better.</h3>**
+In everything I do, I aim to combine passion, dedication, and a strong desire to keep evolving — because I believe that learning never stops, and every new project is an opportunity to become better.</h3>
 
-[My Web Site](https://mauriziotolomeo.it)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        <a href="https://mauriziotolomeo.it">👉 My Site Web! 👈</a>
+      </h1>
+    </summary>
+  </ul>
+</div>
 
  **<h3 align="left">Skills</h3>**
 
