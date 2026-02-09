@@ -40,13 +40,7 @@ In everything I do, I aim to combine passion, dedication, and a strong desire to
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moris88&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=moris88&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=moris88&show_icons=true&theme=radical)
 
  **<h3 align="left">Support Me</h3>**
 
