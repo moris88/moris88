@@ -40,11 +40,11 @@ In everything I do, I aim to combine passion, dedication, and a strong desire to
 
  **<h3 align="left">GitHub Stats</h3>**
 
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moris88&theme=radical)
+
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=moris88&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moris88&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moris88&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moris88&layout=donut)
 
  **<h3 align="left">Support Me</h3>**
 
