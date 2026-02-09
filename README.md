@@ -44,7 +44,7 @@ In everything I do, I aim to combine passion, dedication, and a strong desire to
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moris88&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moris88&hide_progress=true)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moris88&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats)
 
  **<h3 align="left">Support Me</h3>**
 
