@@ -42,6 +42,10 @@ In everything I do, I aim to combine passion, dedication, and a strong desire to
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=moris88&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moris88&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moris88&hide_progress=true)
+
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://paypal.me/@MaurizioTolomeo" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
