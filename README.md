@@ -1,11 +1,17 @@
 # Hi, I'm Maurizio Tolomeo
 
+<!-- markdownlint-disable MD033 MD010 -->
+<p align="center">
+<img class="rounded-full shadow" src="assets/images/avatar.png" alt="Maurizio Tolomeo" width="180" style="border-radius: 50%; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);">
+</p>
+<!-- markdownlint-enable MD033 MD010 -->
+
 ## Frontend Developer | Web enthusiast | Gamer
 
 I am a frontend developer at [**CRMPartners**](https://www.crmpartners.it), where I build websites and applications with a focus on clean interfaces, practical solutions, and continuous learning.
 
 [![Visit my website](https://img.shields.io/badge/Visit_my_website-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mauriziotolomeo.it)
-[![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae-0e75b6?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://moris88.github.io/formazione-git/)
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae-0e75b6?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://cv.mauriziotolomeo.it/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurizio-tolomeo)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moris88)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mauriziotolomeo88)
