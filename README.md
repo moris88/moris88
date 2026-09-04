@@ -47,9 +47,10 @@ I am a frontend developer at [**CRMPartners**](https://www.crmpartners.it), wher
 
 ## GitHub activity
 
-![GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moris88&theme=radical)
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=moris88&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moris88&layout=donut)
+![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moris88&theme=holi)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moris88&theme=holi)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moris88&theme=holi)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moris88&theme=holi&utcOffset=0)
 
 ## Support
 
