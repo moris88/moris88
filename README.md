@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD033 MD010 -->
 <p align="center">
-<img class="rounded-full shadow" src="assets/images/avatar.png" alt="Maurizio Tolomeo" width="180" style="border-radius: 50%; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);">
+<img src="assets/images/avatar-rounded.png" alt="Maurizio Tolomeo" width="180">
 </p>
 <!-- markdownlint-enable MD033 MD010 -->
 
