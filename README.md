@@ -1,51 +1,52 @@
-![👋 Hi, my name is Maurizio](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+# Hi, I'm Maurizio Tolomeo
 
-![Profile views](https://komarev.com/ghpvc/?username=moris88&label=Profile%20views&color=0e75b6&style=flat)
+## Frontend Developer | Web enthusiast | Gamer
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Maurizio
-      </h1>
-    </summary>
-  </ul>
-</div>
+I am a frontend developer at [**CRMPartners**](https://www.crmpartners.it), where I build websites and applications with a focus on clean interfaces, practical solutions, and continuous learning.
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/maurizio-tolomeo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/mauriziotolomeo88" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Moris88" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+[![Visit my website](https://img.shields.io/badge/Visit_my_website-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mauriziotolomeo.it)
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae-0e75b6?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://moris88.github.io/formazione-git/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurizio-tolomeo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moris88)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mauriziotolomeo88)
+[![Profile views](https://komarev.com/ghpvc/?username=moris88&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Moris88)
 
-<h3 align="left">Hello! My name is ♂️ Maurizio Tolomeo 😉, but most people know me as MORIS. I’m a passionate Jr. Web Developer currently working as a Frontend Developer at CRMPartners, where I get to bring websites and applications to life every day! 🖥️
+## About me
 
-Coding is not just my job — it’s my true passion. Ever since I was a child, I’ve been fascinated by computers and programming, and that curiosity has only grown stronger with time. I’m someone who thrives on challenges and loves to push boundaries to achieve the goals I set for myself. I pride myself on being reliable, sociable, and highly dynamic — always ready to collaborate with others and learn new skills. Routine tasks quickly lose my interest; I’m constantly seeking fresh and stimulating opportunities to grow and innovate.
+- I enjoy turning ideas into useful, accessible web experiences.
+- I am curious by nature and always looking for a new challenge to learn from.
+- I value collaboration, reliability, and code that stays understandable over time.
+- Away from the keyboard, I am a fan of survival horror games and their atmosphere of tension and discovery.
 
-Beyond coding, I’m an avid gamer. I particularly enjoy survival horror games, where the atmosphere is intense and the thrill of suspense and fear keeps me on the edge of my seat. These games inspire me to think creatively and stay sharp, qualities I bring into my work as a developer.
+## Training
 
-In everything I do, I aim to combine passion, dedication, and a strong desire to keep evolving — because I believe that learning never stops, and every new project is an opportunity to become better.</h3>
+- [formazione-next.js | This repository contains educational material for learning Next.js.](https://moris88.github.io/formazione-next.js/)
+- [formazione-git | This repository contains educational material for learning Git and how it works.](https://moris88.github.io/formazione-git/)
+- [formazione-javascript | This repository contains educational material for learning the JavaScript programming language, structured into lessons and completed exercises.](https://moris88.github.io/formazione-javascript/)
+- [formazione-python | This repository contains educational material for learning the Python programming language, structured into lessons and completed exercises.](https://moris88.github.io/formazione-python/)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        <a href="https://mauriziotolomeo.it">👉 My Site Web! 👈</a>
-      </h1>
-    </summary>
-  </ul>
-</div>
+## Technologies
 
- **<h3 align="left">Skills</h3>**
+### Languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Pascal-002D72?logo=pascal&logoColor=white" height="32" alt="Pascal" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="32" alt="C" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="32" alt="C++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white" height="32" alt="Rust" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=white" height="32" alt="Bulma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=material-ui&logoColor=white" height="32" alt="Material-UI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Sequelize-2D3748?logo=sequelize&logoColor=white" height="32" alt="Sequelize" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="32" alt="Pandas" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bun-FFDF00?logo=bun&logoColor=White" height="32" alt="Bun" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="32" alt="React Native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white" height="32" alt="Chart.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="32" alt="Jest" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" height="32" alt="Cypress" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="32" alt="Amazon AWS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="32" alt="Vim" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white" height="32" alt="Notepad++" style="margin-right: 4px"></div>
+![Pascal](https://img.shields.io/badge/Pascal-002D72?logo=pascal&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=111827) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
+### Frontend and backend
 
- **<h3 align="left">GitHub Stats</h3>**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moris88&theme=radical)
+### Data, testing, and tools
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=moris88&show_icons=true&theme=radical)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moris88&layout=donut)
+## GitHub activity
 
- **<h3 align="left">Support Me</h3>**
+![GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moris88&theme=radical)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=moris88&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moris88&layout=donut)
 
-<p align="left"><a href="https://paypal.me/@MaurizioTolomeo" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+## Support
+
+If you find my work useful, you can support me through PayPal.
+
+[![Support me on PayPal](https://img.shields.io/badge/Support_me_on_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@MaurizioTolomeo)
