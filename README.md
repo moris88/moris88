@@ -54,7 +54,7 @@ I am a frontend developer at [**CRMPartners**](https://www.crmpartners.it), wher
 ![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moris88&theme=holi)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moris88&theme=holi)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moris88&theme=holi)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moris88&theme=holi&utcOffset=0)
+<!-- ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moris88&theme=holi&utcOffset=0) -->
 
 ## Support
 
