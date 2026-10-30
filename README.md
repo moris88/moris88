@@ -28,8 +28,36 @@ I am a frontend developer at [**CRMPartners**](https://www.crmpartners.it), wher
 - I value collaboration, reliability, and code that stays understandable over time.
 - Away from the keyboard, I am a fan of survival horror games and their atmosphere of tension and discovery.
 
+## Certifications
+
+<!-- markdownlint-disable MD033 -->
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.credly.com/badges/83b5e306-6420-4375-9554-fda2637d786b/public_url">
+<img src="assets/images/blob.png" alt="Claude Certified Architect – Foundations (CCA-F)" width="120">
+</a>
+<br>
+<b>Claude Certified Architect – Foundations (CCA-F)</b>
+<br>
+Anthropic · 29/10/2026
+</td>
+<td align="center" width="50%">
+<a href="https://www.credly.com/badges/fb0d7ace-08ba-43f7-94a3-6bf89be944cc/public_url">
+<img src="assets/images/freshworks.png" alt="Freshworks Certified App Developer – Foundations" width="120">
+</a>
+<br>
+<b>Freshworks Certified App Developer – Foundations</b>
+<br>
+Freshworks · 11/2023
+</td>
+</tr>
+</table>
+<!-- markdownlint-enable MD033 -->
+
 ## Training
 
+- [ccaf | Educational material I created to prepare for the Anthropic Claude Certified Architect – Foundations (CCA-F) certification.](https://ccaf.mauriziotolomeo.it)
 - [formazione-next.js | This repository contains educational material for learning Next.js.](https://moris88.github.io/formazione-next.js/)
 - [formazione-git | This repository contains educational material for learning Git and how it works.](https://moris88.github.io/formazione-git/)
 - [formazione-javascript | This repository contains educational material for learning the JavaScript programming language, structured into lessons and completed exercises.](https://moris88.github.io/formazione-javascript/)
@@ -45,6 +73,10 @@ I am a frontend developer at [**CRMPartners**](https://www.crmpartners.it), wher
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 
+### AI
+
+![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+
 ### Data, testing, and tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white)
@@ -55,6 +87,12 @@ I am a frontend developer at [**CRMPartners**](https://www.crmpartners.it), wher
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moris88&theme=holi)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moris88&theme=holi)
 <!-- ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moris88&theme=holi&utcOffset=0) -->
+
+## Curriculum Vitae
+
+You can view and download my up-to-date CV from my dedicated website.
+
+[![Download my CV](https://img.shields.io/badge/Download_my_CV-0e75b6?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://cv.mauriziotolomeo.it/)
 
 ## Support
 
